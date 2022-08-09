@@ -1,5 +1,6 @@
 # Todo-List
-A simple app using ejs, mongodb, and express to store lists of items that the user may want. The user only needs to add their mongodb server to the app. After doing this, they will be able to use the use cases that I thought of such as Mercado, Costco, Super, and Walmart which are all for grocery shopping. You could then add items quite simply by writing the item and pressing the plus button
+A simple app using ejs, mongodb, and express to store lists of items that the user may want. The user only needs to add their mongodb server to the app. After doing this, they will be able to use the use cases that I thought of such as Mercado, Costco, Super, and Walmart which are all for grocery shopping. Feel free to check out the live version found in my resume
+You could then add items quite simply by writing the item and pressing the plus button
 
 ![image](https://user-images.githubusercontent.com/63802470/183547218-015c7531-171e-426f-9959-b96875a79133.png)
 
